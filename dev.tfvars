@@ -1,4 +1,4 @@
-s3_bucket = "jenkins-terraform-evolvecybertraining"
+s3_bucket = "terraform-state-april-class-kellysalrin"
 s3_folder_project = "terraform_ec2"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
@@ -6,5 +6,5 @@ s3_tfstate_file = "infrastructure.tfstate"
 
 environment = "dev"
 region      = "us-east-1"
-public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXUI8Mt0W/65CPA5rnR4auE8qVb08c6qR9Ca0yQaz9xM6EuShYX8jmktYbrdCIkZTMXbRF58CkWID/NHjYX4ZWZHwLi5uf2RfQegF67+kv6yJ2cgG4AsxUmWqlznxvm9615r8tpzBkKgsya58H+4aPRKqLJmhRm3ZZCa7t2HE7S+RR7fq+WtaQ3BMaKog9AVfHSEP8Gp4Ho7WUv5YlLXu5hlYC+m2oxrSCqXRFIhDtDuyphkzS93gDy8EVBkWnJFkoXT2LbVydcJaNCpEdjB1YFEEc1kMOXCAZ0w5N8PiWgdlY0lPeRXdH1RLX+WCM5FVOT9ujrq8PTQSYIkl2pek3 ikambarov@Islams-MacBook-Pro.local"
+public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCpqRgwDFbxA83BJgACCQhl/d1fj+++VlQE0jIMNOlhVope6PyeaBx/QgVObqLS+Q3UAOfydcySk8mV77lb0J4EZ11OAfO3fG2hFYckT0taxAdDBGnUvBxG9A21J8/phsip2jSe8jvFTGSEJtiOYjh+PD9D0sKbYA91JQg2azA7+gueQXjj4ie0C9VXMRNSYnpDHp/3Z90hxkr1bYPrhMUgN9+vzuk5hVyKGKJjinEkgxg64X2dOAbWBLMACNlHWaw5wGrJ+FXC2T0IKcRW5s6E7Lh//9Rtya1dhGuuiTafuY8ZPvgSyu7jSGcDUAxkzhs7Qwwhh1cWz8pGkbkOkaIBFyUeU8kerONO98jxqbNA1uslIBDah/W1GsZ7vKKtYcKQoSj1Ok8Q0ZNWdrnc9LhU7Q5RxTrhs+IVZDXLS+fxiP3Vk2aojSsOked8gOX+GxR7SWYGWMkjhU7bgKEPvABf206HyZ+2/vSARjdQqf0Wjc4G/TgSQmuMnby+/JF2FbM= Kelly.Salrin@KSALRIN-E7470"
 ami_id      = "ami-02eac2c0129f6376b"
